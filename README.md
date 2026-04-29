@@ -23,12 +23,12 @@ Telepathic AI introduces a new paradigm for multi-agent systems by enabling **di
 ---
 
 ## 🏗️ Repository Architecture
-├── modeling.py # RecursiveLink + latent communication core
-├── run.py # Main execution engine for recursive swarms
-├── system_loader.py # Loads models and initializes links
-├── hf_resolver.py # Resolves HuggingFace weights and adapters
-├── inference_utils/ # Evaluation tools (math, science, reasoning)
-└── README.md
+- modeling.py # RecursiveLink + latent communication core
+-  run.py # Main execution engine for recursive swarms
+- system_loader.py # Loads models and initializes links
+- hf_resolver.py # Resolves HuggingFace weights and adapters
+- inference_utils/ # Evaluation tools (math, science, reasoning)
+- README.md
 
 
 ---
